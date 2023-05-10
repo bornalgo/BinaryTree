@@ -1,7 +1,7 @@
 # Binary Tree
 ## _Sample C++ code inspired by [LeetCode](https://leetcode.com/)_
 
-![BinaryTree_Sample](https://github.com/bghannadi/BinaryTree/raw/main/res/img/binary_tree_example_path.svg)
+[![BinaryTree_Sample](res/img/binary_tree_example_path.svg)](../TextAnimator)
 
 BinaryTree is a library inspired by [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) and
 [Print Binary Tree](https://leetcode.com/problems/print-binary-tree) questions.
